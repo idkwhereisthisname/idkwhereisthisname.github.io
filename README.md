@@ -2,7 +2,7 @@
 <html>
 <body>
 <head>
-  <title>welcome to my site</title>
+<title>welcome to my site</title>
 </head>
 <p>hello this is a site (real)</p>
 
