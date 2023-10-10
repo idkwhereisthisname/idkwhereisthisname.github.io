@@ -3,6 +3,10 @@ hello and welcome to my site, this is probably a follow up to my old crappy goog
 
 <a href="https://tag.rc24.xyz/user/876190978065719326"><img src="https://tag.rc24.xyz/876190978065719326/tag.png" alt="RiiTag" /></a> <a href='http://internetometer.com/give/50032'><img src='http://internetometer.com/imagesmall/50032.png'/></a> <a href='http://internetometer.com/give/50032'><img src='http://internetometer.com/image/50032.png'/></a>
 
+Links:
+
+[How to contact me](https://idkwhereisthisname.github.io/contact)
+
 if you want your button here contact me!!1
 
 
