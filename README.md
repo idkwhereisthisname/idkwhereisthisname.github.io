@@ -9,5 +9,8 @@ Links:
 
 [Changelog](https://idkwhereisthisname.github.io/changelog)
 
+<a href="http://users2.smartgb.com/g/g.php?a=s&i=g26-39299-a4">real guestbook (please sign!)</a>
+
+
 <a href="https://discord.gg/c9zpWSUxGG"> <img src="https://donut.eu.org/img/88x31/wii_super_cool.png" width="88" height="31" alt="Wii Super Cool"> <a href="https://tag.rc24.xyz/user/876190978065719326"> 
 <img src="https://donut.eu.org/img/88x31/riitag.png" width="88" height="31" alt="Powered by RiiTag"> <a href="https://wiimmfi.de"><img src="https://donut.eu.org/img/88x31/wiimmfi.png"></a>
