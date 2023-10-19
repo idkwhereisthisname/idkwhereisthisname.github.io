@@ -1,6 +1,4 @@
-Website updates go here.
-
-10/10/23:Site created
+well dont check here as i will almost never update it, check the [site source](https://github.com/idkwhereisthisname/idkwhereisthisname.github.io) for the latest changelog!
 
 Legacy changelog (3.0/2.0 Site changelog)
 
