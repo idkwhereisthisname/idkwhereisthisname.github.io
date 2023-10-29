@@ -11,6 +11,8 @@ Links:
 
 <a href="http://users2.smartgb.com/g/g.php?a=s&i=g26-39299-a4">real guestbook (please sign!)</a>
 
+Extras
+
 [Site source](https://github.com/idkwhereisthisname/idkwhereisthisname.github.io)
 
 [My Wiimmfi profile](https://wiimmfi.de/xview/mkw-profiles/pgprd9JdfS9W7Y4iWFUR)
