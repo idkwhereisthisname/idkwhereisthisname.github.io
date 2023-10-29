@@ -6,15 +6,15 @@ NOTE2:Do NOT access data management, it will corrupt your DS saves and games.
 
 Requirements:
 
-[The modified TWLCFG0 and 1][https://drive.google.com/drive/folders/1BaRmL3NAzqO7PD_RU0hx9uhBVJG4Fopn?usp=drive_link]
+[The modified TWLCFG0 and 1](https://drive.google.com/drive/folders/1BaRmL3NAzqO7PD_RU0hx9uhBVJG4Fopn?usp=drive_link)
 
 A homebrewed 3DS
 
-FBI
+[FBI](https://github.com/Steveice10/FBI/)
 
-(Nintendo DSi Settings CTR Mode forwarder)[https://hshop.erista.me/t/6826]
+[Nintendo DSi Settings CTR Mode forwarder](https://hshop.erista.me/t/6826)
 
-(Nintendo DSi Settings)[https://hshop.erista.me/t/6824]
+[Nintendo DSi Settings](https://hshop.erista.me/t/6824)
 
 Instructions:
 
