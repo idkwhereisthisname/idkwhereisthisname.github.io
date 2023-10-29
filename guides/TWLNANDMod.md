@@ -24,7 +24,7 @@ Instructions:
 
 3)Go to SD, then find the <code>shared1</code> folder
 
-4)Click </code>current directory</code>, then copy all contents
+4)Click <code>current directory</code>, then copy all contents
 
 5)Return to FBI's main menu
 
