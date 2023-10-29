@@ -16,7 +16,7 @@ FBI
 
 (Nintendo DSi Settings)[https://hshop.erista.me/t/6824]
 
-Instructions
+Instructions:
 
 1)Extract the zip and put the <code>shared1</code> folder in the SD root
 
