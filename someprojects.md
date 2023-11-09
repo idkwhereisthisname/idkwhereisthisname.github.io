@@ -6,6 +6,8 @@ Blocks:17
 
 MB:2,1
 
+Redirects to:yawmME (apps/yawmME/boot.dol)
+
 [Preview](https://youtu.be/SG3OyeMO00o)
 
 [main page](https://idkwhereisthisname.github.io)
