@@ -17,7 +17,7 @@ Extras
 
 [My Wiimmfi profile](https://wiimmfi.de/xview/mkw-profiles/pgprd9JdfS9W7Y4iWFUR)
 
-[random projects i will probably never make](https://idkwhereisthisname.github.io/randomprojects)
+[random projects i will probably never make](https://idkwhereisthisname.github.io/someprojects)
 
 [Guides tree](https://idkwhereisthisname.github.io/guides/guidetree)
 
