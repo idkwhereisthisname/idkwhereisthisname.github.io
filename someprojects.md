@@ -22,6 +22,10 @@ Blocks:16
 
 MB:1,94
 
+Redirects to: yawmME (apps/yawmME/boot.dol)
+
+USB support? No
+
 [Preview](https://youtu.be/SG3OyeMO00o)
 
 ---------------------
