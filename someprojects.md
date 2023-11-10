@@ -12,8 +12,18 @@ Redirects to yawmME (apps/yawmME/boot.dol)
 
 USB support? No
 
-vWii support? working on it
+vWii support? Yes [download (vwii)](https://idkwhereisthisname.github.io/dwnlds-dir/hogexplodechvwii.wad)
+
+Info
+
+IOS:35
+
+Blocks:16
+
+MB:1,94
 
 [Preview](https://youtu.be/SG3OyeMO00o)
 
-[main page](https://idkwhereisthisname.github.io)
+---------------------
+
+[Main page](https://idkwhereisthisname.github.io)
