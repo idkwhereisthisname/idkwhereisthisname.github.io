@@ -1,6 +1,6 @@
 hog explode channel (real)
 
-[download](https://idkwhereisthisname.github.io/dwnlds-dir/hogexplodech.wad)
+[download (Wii)](https://idkwhereisthisname.github.io/dwnlds-dir/hogexplodech.wad)
 
 Info
 
@@ -12,7 +12,7 @@ Redirects to yawmME (apps/yawmME/boot.dol)
 
 USB support? No
 
-vWii support? Yes [download (vwii)](https://idkwhereisthisname.github.io/dwnlds-dir/hogexplodechvwii.wad)
+vWii support? Yes [download (vWii)](https://idkwhereisthisname.github.io/dwnlds-dir/hogexplodechvwii.wad)
 
 Info
 
