@@ -1,4 +1,6 @@
-hog explode channel [(real)](https://idkwhereisthisname.github.io/dwnlds-dir/hogexplodech.wad)
+hog explode channel (real)
+
+[download](https://idkwhereisthisname.github.io/dwnlds-dir/hogexplodech.wad)
 
 Info
 
