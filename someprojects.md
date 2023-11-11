@@ -1,3 +1,5 @@
+<h1>WADs</h1>
+
 hog explode channel (real)
 
 [download (Wii)](https://idkwhereisthisname.github.io/dwnlds-dir/hogexplodech.wad)
