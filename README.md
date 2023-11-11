@@ -7,8 +7,6 @@ Links:
 
 [How to contact me](https://idkwhereisthisname.github.io/contact)
 
-[Changelog](https://idkwhereisthisname.github.io/changelog)
-
 <a href="http://users2.smartgb.com/g/g.php?a=s&i=g26-39299-a4">real guestbook (please sign!)</a>
 
 Extras
