@@ -3,7 +3,7 @@ hello and welcome to my site, this is probably a follow up to my old crappy goog
 
 <a href="https://tag.rc24.xyz/user/876190978065719326"><img src="https://tag.rc24.xyz/876190978065719326/tag.png" alt="RiiTag" /></a> <a href='http://internetometer.com/give/50032'><img src='http://internetometer.com/imagesmall/50032.png'/></a> <a href='http://internetometer.com/give/50032'><img src='http://internetometer.com/image/50032.png'/></a>
 
-Links:
+[Links](https://idkwhereisthisname.github.io/links)
 
 [How to contact me](https://idkwhereisthisname.github.io/contact)
 
@@ -12,8 +12,6 @@ Links:
 Extras
 
 [Site source](https://github.com/idkwhereisthisname/idkwhereisthisname.github.io)
-
-[My Wiimmfi profile](https://wiimmfi.de/xview/mkw-profiles/pgprd9JdfS9W7Y4iWFUR)
 
 [random projects](https://idkwhereisthisname.github.io/someprojects)
 
