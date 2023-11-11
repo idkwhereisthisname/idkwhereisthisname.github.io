@@ -6,7 +6,7 @@ NOTE:It is confirmed to work on those consoles:
 * Old 3DS (XL)
 * New 3DS (XL)
 
-If you use any other consoles, you will *probably* get an error.
+If you use any other consoles, you will *probably* get an error. If it works for any other consoles besides those three (or five), [contact](https://idkwhereisthisname.github.io/contact) me.
 
 NOTE2:Do NOT access data management, it will corrupt your DS saves and games.
 
