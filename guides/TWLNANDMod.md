@@ -1,5 +1,7 @@
 Modifying your Twilight NAND can make DSi System Settings accessible from your 3DS
 
+If you need assistance please join the <a href="https://discord.gg/c9zpWSUxGG"><img src="https://donut.eu.org/img/88x31/wii_super_cool.png" width="88" height="31"></a> discord server and ask for support in #support-text
+
 NOTE:It is confirmed to work on those consoles:
 
 * Old 2DS
