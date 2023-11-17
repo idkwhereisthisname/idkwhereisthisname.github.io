@@ -18,19 +18,19 @@ USB support? No
 
 vWii support? Yes [download (vWii)](https://idkwhereisthisname.github.io/dwnlds-dir/hogexplodechvwii.wad)
 
-Info
+<h3>real channel</h3>
 
-IOS:35
+Info
 
 Blocks:16
 
-MB:1,94
+KB:1,894
 
-Redirects to: yawmME (apps/yawmME/boot.dol)
+Redirects to: Homebrew Channel (Internal)
 
-USB support? No
+vWii support? Yes
 
-[Preview](https://youtu.be/SG3OyeMO00o)
+USB support: Yes
 
 ---------------------
 
