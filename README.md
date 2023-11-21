@@ -7,7 +7,7 @@ hello and welcome to my site, this is probably a follow up to my old crappy goog
 
 [How to contact me](https://idkwhereisthisname.github.io/contact)
 
-[real guestbook (please sign!)](http://users2.smartgb.com/g/g.php?a=s&i=g26-39299-a4)
+[real guestbook (please sign!)](https://forms.gle/FugYhrrn6dSN3qWU9)
 
 Extras
 
