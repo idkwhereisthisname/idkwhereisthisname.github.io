@@ -1,5 +1,7 @@
-WADs
+random projects
 ------------
+WADs
+
 If you need assistance, please join the <a href="https://discord.gg/c9zpWSUxGG"><img src="https://donut.eu.org/img/88x31/wii_super_cool.png" width="88" height="31"></a> discord server and ask for help in #support-text
 
 <h3>hog explode channel (real)</h3>
