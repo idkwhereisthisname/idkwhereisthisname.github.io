@@ -1,1 +1,1 @@
-this is a test page, [leave](https://idkwhereisthisname.github.io)
+if you have been redirected here, go to the [projects](https://idkwhereisthisname.github.io/someprojects) page
