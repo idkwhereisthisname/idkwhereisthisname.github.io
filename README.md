@@ -1,4 +1,7 @@
-hello and welcome to my site, this is probably a follow up to my old crappy google site
+welcome
+---
+             
+hello this is my site i guess
 
 
 <a href="https://tag.rc24.xyz/user/876190978065719326"><img src="https://tag.rc24.xyz/876190978065719326/tag.png" alt="RiiTag" /></a> <a href='http://internetometer.com/give/50032'><img src='http://internetometer.com/imagesmall/50032.png'/></a> <a href='http://internetometer.com/give/50032'><img src='http://internetometer.com/image/50032.png'/></a><img src="https://idkwhereisthisname.github.io/wiiuspin.gif" width=110 height=110>
