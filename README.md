@@ -15,7 +15,7 @@ Extras
 
 [random projects](https://idkwhereisthisname.github.io/someprojects)
 
-[Guides tree](https://idkwhereisthisname.github.io/guides/guidetree)
+[Guides tree](https://idkwhereisthisname.github.io/guides/)
 
 sum noice buttons
 
