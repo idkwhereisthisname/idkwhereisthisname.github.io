@@ -16,7 +16,7 @@ Extras
 
 [Site source](https://github.com/idkwhereisthisname/idkwhereisthisname.github.io)
 
-[random projects](https://idkwhereisthisname.github.io/someprojects)
+[random projects](https://idkwhereisthisname.github.io/dwnlds-dir/)
 
 [Guides tree](https://idkwhereisthisname.github.io/guides/)
 
