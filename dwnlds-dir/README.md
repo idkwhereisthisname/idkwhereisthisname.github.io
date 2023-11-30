@@ -30,9 +30,9 @@ vWii support? Yes [download (vWii)](https://idkwhereisthisname.github.io/dwnlds-
 
 Info
 
-Blocks:16
+Blocks:11
 
-KB:1,894
+KB:1,346
 
 Redirects to: Homebrew Channel (Internal DOL)
 
