@@ -26,7 +26,7 @@ vWii support? Yes [download (vWii)](https://idkwhereisthisname.github.io/dwnlds-
 
 <h3>real channel</h3>
 
-[Download (Wii)](idkwhereisthisname.github.io/dwnlds-dir/realchannel.wad)
+[Download (Wii)](https://idkwhereisthisname.github.io/dwnlds-dir/realchannel.wad)
 
 Info
 
@@ -36,8 +36,7 @@ KB:1,894
 
 Redirects to: Homebrew Channel (Internal DOL)
 
-vWii support? Yes. [Download (vWii)](idkwhereisthisname.github.io/dwnlds-dir/realchannelvwii.wad)
-
+vWii support? Yes. [Download (vWii)](https://idkwhereisthisname.github.io/dwnlds-dir/realchannelvwii.wad)
 USB support: Yes
 
 [Preview](https://youtu.be/eNJpCWZDX4g)
