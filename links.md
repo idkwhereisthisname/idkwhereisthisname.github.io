@@ -1,5 +1,7 @@
-links
+some links i guess
 -----
+[roblox profile](https://www.roblox.com/users/3962819055/profile)
+
 [Wiimmfi profile](https://wiimmfi.de/xview/mkw-profiles/pgprd9JdfS9W7Y4iWFUR)
 
 [GBATemp profile](https://gbatemp.net/members/idkwhereisthisname.669379/)
