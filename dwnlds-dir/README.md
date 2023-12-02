@@ -42,5 +42,6 @@ USB support: Yes
 [Preview](https://youtu.be/eNJpCWZDX4g)
 
 ---------------------
+also check out my [archive.org](https://archive.org/details/@kcrtr3) profile for mor
 
 [Main page](https://idkwhereisthisname.github.io)
