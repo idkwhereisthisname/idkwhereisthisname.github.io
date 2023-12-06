@@ -50,4 +50,4 @@ Congratulations, you have modified your TWL NAND and can now access the DSi Syst
 
 [Site main page](https://idkwhereisthisname.github.io)
 
-[Guide tree](https://idkwhereisthisname.github.io/guides/guidetree)
+[Guide tree](https://idkwhereisthisname.github.io/guides/)
