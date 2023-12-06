@@ -1,4 +1,4 @@
-random projects
+<a href="https://idkwhereisthisname.github.io"><img src="https://idkwhereisthisname.github.io/assets/homebutton.gif" width="25" height="25"></a> random projects
 ------------
 WADs
 
