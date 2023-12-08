@@ -9,3 +9,6 @@
 [wii-homebrew.com profile](https://forum.wii-homebrew.com/index.php/User/110850-idkwhereisthisname/?s=ca62823baf3e04cd12e3dde0434a1ec466425c78)
 
 [YouTube channel](https://www.youtube.com/channel/UC3IL0b1yqcimDNNGxSRxDkA)
+
+switch friend code: <button onclick="myFunction()">SW-3166-4547-8894</button>
+
