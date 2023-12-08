@@ -10,4 +10,4 @@
 
 [YouTube channel](https://www.youtube.com/channel/UC3IL0b1yqcimDNNGxSRxDkA)
 
-switch friend code: SW-3166-4547-8894
+switch friend code: <a onclick="copy(this)"><b>SW-3166-4547-8894</b></a>
