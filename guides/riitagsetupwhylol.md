@@ -24,15 +24,15 @@ Setting up your USB Loader
 
 - USB Loader GX:
 
-Load USB Loader GX on your Wii.
-Go to Settings > Features and turn Wiinnertag on. Press Yes or OK to any dialogues that show up.
-Ensure that Initialize Network is turned on.
-Exit USB Loader GX.
-Insert the SD Card or USB device where your USB Loader GX data is into your computer.
-Go to [this](https://tag.rc24.xyz/Wiinnertag.xml) page.
-On your browser, right click, and click Save As.
-Save the XML to <code>/apps/usbloader_gx</code> folder on your SD Card or USB device, replacing the existing Wiinnertag.xml.
-You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+1. Load USB Loader GX on your Wii.
+2. Go to Settings > Features and turn Wiinnertag on. Press Yes or OK to any dialogues that show up.
+3. Ensure that Initialize Network is turned on.
+4. Exit USB Loader GX.
+5. Insert the SD Card or USB device where your USB Loader GX data is into your computer.
+6. Go to [this](https://tag.rc24.xyz/Wiinnertag.xml) page.
+7. On your browser, right click, and click Save As.
+8. Save the XML to <code>/apps/usbloader_gx</code> folder on your SD Card or USB device, replacing the existing Wiinnertag.xml.
+9. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 
 - WiiFlow
 
