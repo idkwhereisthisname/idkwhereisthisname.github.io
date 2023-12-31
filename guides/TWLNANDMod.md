@@ -10,7 +10,7 @@ NOTE:It is confirmed to work on those consoles:
 
 If you use any other consoles, you will *probably* get an error. If it works for any other consoles besides those three (or five), [contact](https://idkwhereisthisname.github.io/contact) me.
 
-NOTE2:Do NOT access data management, it will corrupt your DS saves and games.
+NOTE2:~~Do NOT access data management, it will corrupt your DS saves and games.~~ Data management has been removed from there, so you dont need to worry about this warning anymore, unless you are using an older build of the DSi System Settings
 
 Requirements:
 
