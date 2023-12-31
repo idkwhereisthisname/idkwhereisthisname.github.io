@@ -40,7 +40,7 @@ Setting up your USB Loader
 2. Open <code>/apps/wiiflow/wiiflow.ini</code> with a text editor.
 3. Search for gamercards and replace that line with <code>gamercards=wiinnertag</code>.
 4. Search for wiinnertag_url and replace that line with <code>wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}</code>.
-5. Search for <code>wiinnertag_key</code> and replace that line with <code>wiinnertag_key=<key></code>,  replacing<code> <key> </code>with the key you wrote down in Section 
+5. Search for <code>wiinnertag_key</code> and replace that line with <code>wiinnertag_key=<key> </code>, replacing <code><key> </code>with the key you wrote down in Section 
 6. Search for <code>gamercards_enable</code> and replace that line with <code>gamercards_enable=yes</code>.
 7. Save the modified <code>wiiflow.ini</code> file.
 You have now set up RiiTag. You can try loading any game now to see if it works correctly.
