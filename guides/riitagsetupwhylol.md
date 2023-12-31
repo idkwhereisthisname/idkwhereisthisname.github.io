@@ -55,7 +55,7 @@ Note that this USB loader is not officially supported
 1. Take the SD Card or USB device where your Configurable USB Loader data is into your computer.
 2. Open <code>/usb-loader/config.txt</code> with a text editor.
 3. Replace (or add the line) starting with <code>gamercard_url</code> with <code>gamercard_url = http://tag.rc24.xyz/wii?game={ID6}&key={KEY}</code>.
-4. Replace (or add the line) starting with <code>gamercard_key</code> with <code>gamercard_key = <key></code>, replacing <key> with the key you wrote down in Section 1.
+4. Replace (or add the line) starting with <code>gamercard_key</code> with gamercard_key = <key>, replacing <key> with the key you wrote down in Section 1.
 5. Save the modified <code>config.txt</code> file.
 6. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 
@@ -98,7 +98,7 @@ RiiTag on 3DS
 
 what you need
 
-a non-banned from nintendo network 3ds (it's the same even if its not homebrewed)
+a non-banned from nintendo network 3ds (it's the same even if its not homebrewed) (if you dont have a 3ds scroll up)
 
 a working internet connection
 
