@@ -30,9 +30,8 @@ Setting up your USB Loader
 4. Exit USB Loader GX.
 5. Insert the SD Card or USB device where your USB Loader GX data is into your computer.
 6. Go to [this](https://tag.rc24.xyz/Wiinnertag.xml) page.
-7. On your browser, right click, and click Save As.
-8. Save the XML to <code>/apps/usbloader_gx</code> folder on your SD Card or USB device, replacing the existing Wiinnertag.xml.
-9. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
+7. Save the XML to <code>/apps/usbloader_gx</code> folder on your SD Card or USB device, replacing the existing Wiinnertag.xml.
+8. You have now set up RiiTag. You can try loading any game now to see if it works correctly.
 
 - WiiFlow
 
@@ -40,7 +39,7 @@ Setting up your USB Loader
 2. Open <code>/apps/wiiflow/wiiflow.ini</code> with a text editor.
 3. Search for gamercards and replace that line with <code>gamercards=wiinnertag</code>.
 4. Search for wiinnertag_url and replace that line with <code>wiinnertag_url=http://tag.rc24.xyz/wii?game={ID6}&key={KEY}</code>.
-5. Search for <code>wiinnertag_key</code> and replace that line with <code>wiinnertag_key=<key> </code>, replacing <code><key> </code>with the key you wrote down in Section 
+5. Search for <code>wiinnertag_key</code> and replace that line with <code>wiinnertag_key=<key> </code>, replacing ``<key>`` with the key you wrote down in Section 
 6. Search for <code>gamercards_enable</code> and replace that line with <code>gamercards_enable=yes</code>.
 7. Save the modified <code>wiiflow.ini</code> file.
 You have now set up RiiTag. You can try loading any game now to see if it works correctly.
