@@ -20,7 +20,7 @@ Extras
 
 [Guides tree](https://idkwhereisthisname.github.io/guides/)
 
-[pc specs](https://idkwhereisthisname.github.io/pcspecs/)
+[pc specs](https://idkwhereisthisname.github.io/specs/)
 
 sum noice buttons
 
